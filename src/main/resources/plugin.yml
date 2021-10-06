@@ -1,0 +1,4 @@
+name: Message
+version: '${project.version}'
+main: net.bghdyt.message.Message
+authors: [ BGHDDevelopment ]
