@@ -7,7 +7,7 @@ public final class Message extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
-
+        Color.log("Hi this &eis a &ctest.");
     }
 
     @Override
